@@ -1,0 +1,109 @@
+@font-face {
+    font-family: Pentatonic;
+    src: url(Pentatonic.woff);
+    font-weight: lighter;
+}
+
+:root, body {
+    background-color: #181926;
+    color: #eef;
+}
+.name-header {
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+.title {
+    padding: 0;
+    margin: 0;
+    margin-left: 0.4em;
+    font-family: "Rubik", serif;
+    font-size: 1.25em;
+}
+.button {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 2em;
+    margin-left: 2em;
+    border-radius: 100em;
+}
+.red {
+    background-color: #ed8796;
+}
+.yellow {
+    background-color: #eed49f;
+}
+.green {
+    background-color: #a6da95;
+}
+
+.windoew-titl {
+    padding: 0em;
+    margin: 0.75em;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto 7.5em;
+    background-color: #1e2030;
+}
+@keyframes dyke {
+    0% {color: #090914;}
+    49% {color: #090914;}
+    50% {color: #fff;}
+    99% {color: #fff;}
+}
+faggot {
+    color: #090914;
+    animation-name: dyke;
+    animation-duration: 500ms;
+    animation-iteration-count: infinite;
+}
+.FAT-TITTIES {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 2em 2em 3.5em;
+}
+.terminal-window {
+    padding: 1em;
+    border-radius: 0 0 15px 15px;
+    background-color: #090914;
+}
+silly {
+    color: greenyellow;
+}
+.d-int {
+    font-family: "JetBrains Mono";
+    font-weight: 800;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 2px;
+}
+silly2 {
+    color: blue;
+}
+
+.textbox {
+    align-self: center;
+    width: 66%;
+    margin: auto;
+    padding: 0em;
+    margin-top: 2em;
+    background-color: #1e2030;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #363a4f;
+    border-radius: 15px;
+}
+.d {
+
+    font-family: "JetBrains Mono";
+    padding: 0;
+    margin: 0;
+    padding-bottom: 2px;
+}
+@media only screen and (max-width: 768px) {
+    [class="textbox"] {
+        width: 95%;
+    }
+}
