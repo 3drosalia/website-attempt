@@ -3,7 +3,70 @@
     src: url(Pentatonic.woff);
     font-weight: lighter;
 }
-
+tr1 {
+    background-color: skyblue !important;
+    color: skyblue !important;
+}
+tr2 {
+    background-color: pink !important;
+    color: pink !important;
+}
+tr3 {
+    background-color: white !important;
+    color: white !important;
+}
+les1 {
+    background-color: orangered !important;
+    color: orangered !important;
+}
+les2 {
+    background-color: orange !important;
+    color: orange !important;
+}
+les3 {
+    background-color: white !important;
+    color: white !important;
+}
+les4 {
+    background-color: mediumorchid !important;
+    color: mediumorchid !important;
+}
+les5 {
+    background-color: purple !important;
+    color: purple !important;
+}
+grf1 {
+    background-color: violet !important;
+    color: violet !important;
+}
+grf2 {
+    background-color: white !important;
+    color:white !important;
+}
+grf3 {
+    background-color: darkmagenta !important;
+    color: darkmagenta !important;
+}
+grf4 {
+    background-color: darkslategray !important;
+    color: darkslategrey !important;
+}
+grf5 {
+    background-color: blue !important;
+    color: blue !important;
+}
+bi1 {
+    background-color: mediumvioletred !important;
+    color: mediumvioletred !important;
+}
+bi2 {
+    background-color: mediumorchid !important;
+    color: mediumorchid !important;
+}
+bi3 {
+    background-color: mediumblue !important;
+    color: mediumblue !important;
+}
 :root, body {
     background-color: #181926;
     color: #eef;
@@ -82,70 +145,7 @@ silly {
 silly2 {
     color: blue;
 }
-tr1 {
-    background-color: skyblue !important;
-    color: skyblue !important;
-}
-tr2 {
-    background-color: pink !important;
-    color: pink !important;
-}
-tr3 {
-    background-color: white !important;
-    color: white !important;
-}
-les1 {
-    background-color: orangered !important;
-    color: orangered !important;
-}
-les2 {
-    background-color: orange !important;
-    color: orange !important;
-}
-les3 {
-    background-color: white !important;
-    color: white !important;
-}
-les4 {
-    background-color: mediumorchid !important;
-    color: mediumorchid !important;
-}
-les5 {
-    background-color: purple !important;
-    color: purple !important;
-}
-grf1 {
-    background-color: violet !important;
-    color: violet !important;
-}
-grf2 {
-    background-color: white !important;
-    color:white !important;
-}
-grf3 {
-    background-color: darkmagenta !important;
-    color: darkmagenta !important;
-}
-grf4 {
-    background-color: darkslategray !important;
-    color: darkslategrey !important;
-}
-grf5 {
-    background-color: blue !important;
-    color: blue !important;
-}
-bi1 {
-    background-color: mediumvioletred !important;
-    color: mediumvioletred !important;
-}
-bi2 {
-    background-color: mediumorchid !important;
-    color: mediumorchid !important;
-}
-bi3 {
-    background-color: mediumblue !important;
-    color: mediumblue !important;
-}
+
 .textbox {
     align-self: center;
     width: 66%;
