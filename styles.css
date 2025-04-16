@@ -82,7 +82,54 @@ silly {
 silly2 {
     color: blue;
 }
-
+tr1 {
+    background-color: skyblue;
+}
+tr2 {
+    background-color: pink;
+}
+tr3 {
+    background-color: white;
+}
+les1 {
+    background-color: orangered;
+}
+les2 {
+    background-color: orange;
+}
+les3 {
+    background-color: white;
+}
+les4 {
+    background-color: mediumorchid;
+}
+les5 {
+    background-color: purple;
+}
+grf1 {
+    background-color: violet;
+}
+grf2 {
+    background-color: white;
+}
+grf3 {
+    background-color: darkmagenta;
+}
+grf4 {
+    background-color: darkslategray;
+}
+grf5 {
+    background-color: blue;
+}
+bi1 {
+    background-color: mediumvioletred;
+}
+bi2 {
+    background-color: mediumorchid;
+}
+bi3 {
+    background-color: mediumblue;
+}
 .textbox {
     align-self: center;
     width: 66%;
